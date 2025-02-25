@@ -13,6 +13,7 @@
 - **Frameworks:** TensorFlow and PyTorch for model development
 - **Model Training:** Techniques like gradient descent, backpropagation, regularization, and optimization strategies
 
+---
 # Phase 2: Core Generative AI Concepts
 📌 Objective: Learn how Generative AI models work and how they can be applied.
 
@@ -26,6 +27,7 @@
 - **Audio & Speech:** Implementations such as Whisper for transcription, along with TTS frameworks  
 - **Multimodal Architectures:** Frameworks that combine text, images, audio, or video (CLIP, Flamingo, GPT-V)
 
+---
 #  Phase 3: Building AI Agents
 📌 Objective: Understand AI Agents and their ability to perform autonomous tasks.
 
@@ -57,6 +59,7 @@
 #### **Retrieval-Augmented Generation (RAG)**  
 - Integrate external knowledge sources with LLMs using frameworks like LangChain and LlamaIndex  
 
+---
 # Phase 4: Deploying & Scaling Gen AI Systems
 📌 Objective: Build and deploy production-ready Gen AI solutions.
 
@@ -80,6 +83,7 @@
 - **Bias Detection and Mitigation**: Ensuring responsible AI practices  
 - **Prompt Injection & Jailbreak Protections**: Safeguarding agent behaviors and model outputs  
 
+---
 # Phase 5: Advanced Topics in Gen AI
 📌 Objective: Stay ahead in AI with cutting-edge research and innovations.
 
